@@ -3,6 +3,8 @@
 Este é um projeto de uma calculadora simples desenvolvida utilizando React. 
 A calculadora permite realizar operações básicas de adição, subtração, multiplicação e divisão, além de apresentar o resultado na tela.
 
+![Logo da Página](src/img/imagem.png)
+
 ## Tecnologias Utilizadas
 * React: Utilizado para a construção da interface de usuário e a lógica da aplicação.
 * JavaScript: Linguagem de programação utilizada para desenvolver a lógica da calculadora.
